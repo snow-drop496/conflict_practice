@@ -1,3 +1,3 @@
 # favorite food
 
-chocolate
+cookie
